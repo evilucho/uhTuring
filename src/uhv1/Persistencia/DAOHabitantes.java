@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import uhv1.Negocio.Casa;
 import uhv1.Negocio.Responsable;
-import uhv1.persistencia.ManejadorBD;
+import uhv1.Persistencia.ManejadorBD;
 
 /**
  *
