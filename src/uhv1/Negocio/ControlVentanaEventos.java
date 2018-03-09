@@ -13,7 +13,10 @@ import uhv1.Vistas.VentanaEventos;
  */
 public class ControlVentanaEventos {
     public void inicia(){
-        VentanaEventos VE = new VentanaEventos();
+        ControlBuscaEvento busca_evento = new ControlBuscaEvento();
+        VentanaEventos VE = new VentanaEventos(busca_evento);
+        
         VE.setVisible(true);
     }
+    
 }

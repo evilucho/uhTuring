@@ -9,7 +9,7 @@ import uhv1.Negocio.ControlVentanaEventos;
 import uhv1.Negocio.ControlVentanaHabitante;
 import uhv1.Negocio.ControlVentanaTarjeton;
 import uhv1.Vistas.VentanaPrincipal;
-import uhv1.persistencia.ManejadorBD;
+import uhv1.Persistencia.ManejadorBD;
 
 /**
  *
