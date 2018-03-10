@@ -75,9 +75,9 @@ public class VentanaPrincipal extends javax.swing.JFrame {
                 .addComponent(botonHabitante)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(botonEventos)
-                .addGap(97, 97, 97))
+                .addGap(95, 95, 95))
             .addGroup(layout.createSequentialGroup()
-                .addGap(181, 181, 181)
+                .addGap(192, 192, 192)
                 .addComponent(botonTarjeton)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
@@ -90,9 +90,9 @@ public class VentanaPrincipal extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(botonHabitante)
                     .addComponent(botonEventos))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 65, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 59, Short.MAX_VALUE)
                 .addComponent(botonTarjeton)
-                .addGap(59, 59, 59))
+                .addGap(65, 65, 65))
         );
 
         pack();

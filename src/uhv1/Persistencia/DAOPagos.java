@@ -17,7 +17,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import uhv1.Negocio.Responsable;
 import uhv1.Negocio.pagos;
-import uhv1.persistencia.ManejadorBD;
+import uhv1.Persistencia.ManejadorBD;
 
 public class DAOPagos {
     

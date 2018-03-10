@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package uhv1.persistencia;
+package uhv1.Persistencia;
 
 public class DatabaseException extends RuntimeException{
 
